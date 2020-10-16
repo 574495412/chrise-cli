@@ -1,3 +1,8 @@
+/*
+ * @Descripttion: 
+ * @Author: xiaodong
+ * @Date: 2020-10-15 13:57:53
+ */
 const setPkg = options => {
   const { name, ...rest } = options;
 
@@ -17,8 +22,8 @@ const setPkg = options => {
 
 const setPkgScripts = pkg => {
   pkg.scripts = {
-    dev: 'chrise-scripts dev',
-    build: 'chrise-scripts build'
+    dev: 'chrise-webpack dev',
+    build: 'chrise-webpack build'
   };
 };
 
