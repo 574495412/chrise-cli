@@ -1,0 +1,29 @@
+{
+  "name": "@chrise/cli",
+  "version": "1.0.5",
+  "description": "cli部分",
+  "main": "index.js",
+  "bin": {
+    "chrise": "./bin/chrise.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "chrise",
+    "@chrise/cli"
+  ],
+  "author": "chrise",
+  "license": "ISC",
+  "dependencies": {
+    "@chrise/template": "^1.1.0",
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "ora": "^5.1.0",
+    "semver": "^7.3.2",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@chrise/template",
+  "version": "1.1.0",
+  "description": "template部分",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "chrise",
+    "@chrise/template"
+  ],
+  "author": "chrise",
+  "license": "ISC",
+  "peerDependencies": {
+    "fs-extra": ">9"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "chrise-cli",
+  "version": "1.0.0",
+  "description": "vue脚手架",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/eslint-parser": "^7.11.5",
+    "eslint": "^7.9.0"
+  },
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
