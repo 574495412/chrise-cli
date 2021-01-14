@@ -1,5 +1,8 @@
+<!--
+ * @Descripttion: 
+ * @Author: xiaodong
+ * @Date: 2020-10-15 13:57:53
+-->
 # @chrise/cli
 
-江鱼儿呃呃呃脚手架，不定期更新
-
-一起来学习吧！
+vue脚手架，不定期更新
